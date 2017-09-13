@@ -1,4 +1,3 @@
-Q4. 
 #Start Zookeeper
 zkserver
 
